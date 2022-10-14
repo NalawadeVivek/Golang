@@ -31,9 +31,9 @@ To build for other operating systems
 
    check the go env parameter
 
-    ex. GOOS=linux && GOARCH=amd64 go build -o app main.go  
+    GOOS=linux && GOARCH=amd64 go build -o app main.go  
 
-TO instll the exe
+To instll the exe
     
     go install main.go
 
