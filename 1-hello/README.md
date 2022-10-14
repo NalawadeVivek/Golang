@@ -1,6 +1,3 @@
-# Golang
-Learning Golang
-
 To run go
     go run main.go
 
