@@ -24,12 +24,12 @@ To build for other operating systems
        export GOOS=linux 
        export GOARCH=amd64 
 
-   for windows
+   For windows
        
        export GOOS=windows
        export GOARCH=amd64
 
-   check the go env parameter
+   Check the go env parameter
 
     GOOS=linux && GOARCH=amd64 go build -o app main.go  
 
